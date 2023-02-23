@@ -36,4 +36,4 @@ Aún tengo dificultades con Tailwind y complicaciones con JavaScript, puedo deci
 
 - Frontend Mentor - [Piero Bryan BL](https://www.frontendmentor.io/profile/PieroBryanBL)
 - Twitter - [Piero Bryan BL](https://twitter.com/pierobryan_bl1)
-- LinkedIn - [Piero Bryan BL](https://www.linkedin.com/in/piero-bryan-benigno-leyva-604775244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFNAR%2Fdm%2FSAmeV9ZHidShYA%3D%3D)# Notification-FM
+- LinkedIn - [Piero Bryan BL](https://www.linkedin.com/in/piero-bryan-benigno-leyva-604775244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFNAR%2Fdm%2FSAmeV9ZHidShYA%3D%3D)
